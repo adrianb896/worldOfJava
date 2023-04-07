@@ -1,8 +1,8 @@
 object Sample {
    def main (args: Array[String]) = {
       var ch:Char=0
-      var num1:Int=1
-      var num2:Int=1
+      var num1:Int=0
+      var num2:Int=0
       var result:Int=0
       
       print ("Welcome to my Scala arithmetic calculator:\n")
